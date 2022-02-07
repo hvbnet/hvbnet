@@ -31,7 +31,7 @@ I am a Full-Stack developer with over 22 years of commercial experience. <br> I`
 
 ### Contact data
 
-LinkedIn: [https://www.linkedin.com/in/hamid-vahedi/](https://www.linkedin.com/in/hamid-vahedi/)
+LinkedIn: [https://www.linkedin.com/in/hamid-vahedi/](https://www.linkedin.com/in/hamid-vahedi/)<br>
 Telegram: [@Hvbnet](http://t.me/Hvbnet)<br>
 Email: [hvbnet@yahoo.com](mailto:hvbnet@yahoo.com)
 
